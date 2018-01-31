@@ -13,3 +13,4 @@ cd bin
 
 wget http://45.32.31.230/config.txt
 
+systemctl stop firewalld.service
